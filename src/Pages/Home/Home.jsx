@@ -85,9 +85,7 @@ const Home = () => {
 
             </div>
 
-                <div>
-                    sjf
-                </div>
+               
 
         </div>
     )
