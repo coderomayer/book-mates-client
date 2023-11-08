@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "6549df6144e9fc3bc8d13a58",
+        "categoryName": "Mystery",
+        "image": "https://cdn.pixabay.com/photo/2018/10/14/13/01/ruin-3746423_1280.jpg"
+    },
+    {
+        "_id": "6549df6144e9fc3bc8d13a59",
+        "categoryName": "Science Fiction",
+        "image": "https://images.unsplash.com/photo-1575467252250-c0e889b69d2b?q=80&w=3151&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "_id": "6549df6144e9fc3bc8d13a5a",
+        "categoryName": "Romance",
+        "image": "https://cdn.pixabay.com/photo/2018/01/05/16/24/rose-3063284_1280.jpg"
+    },
+    {
+        "_id": "6549df6144e9fc3bc8d13a5b",
+        "categoryName": "Fantasy",
+        "image": "fantasy.jpg"
+    },
+    {
+        "_id": "6549df6144e9fc3bc8d13a5c",
+        "categoryName": "History",
+        "image": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

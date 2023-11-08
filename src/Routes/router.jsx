@@ -3,7 +3,9 @@ import MainLayout from "../Layouts/MainLaout";
 import AddBook from "../Pages/AddBook";
 import AllBooks from "../Pages/AllBooks";
 import BorrowedBooks from "../Pages/BorrowedBooks";
-import Home from "../Pages/Home";
+import Home from "../Pages/Home/Home";
+import Login from "../Pages/Login";
+import Registraition from "../Pages/Registration";
 
 const router = createBrowserRouter([
 
@@ -15,7 +17,8 @@ const router = createBrowserRouter([
 
             {
                 index: true,
-                element: <Home></Home>
+                element: <Home></Home>,
+                loader: () => fetch('http://localhost:5000/category')
             },
 
             {
@@ -31,6 +34,16 @@ const router = createBrowserRouter([
             {
                path: 'borrowed-books',
                element: <BorrowedBooks></BorrowedBooks>
+            },
+
+            {
+                path: 'register',
+                element: <Registraition></Registraition>
+            },
+
+            {
+                path: 'login',
+                element: <Login></Login>
             }
 
         ]

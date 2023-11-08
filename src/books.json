@@ -1,0 +1,153 @@
+[
+    {
+      "image": "history_book_1.jpg",
+      "name": "A People's History of the United States",
+      "author": "Howard Zinn",
+      "category": "History"
+    },
+    {
+      "image": "history_book_2.jpg",
+      "name": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "History"
+    },
+    {
+      "image": "history_book_3.jpg",
+      "name": "The Wright Brothers",
+      "author": "David McCullough",
+      "category": "History"
+    },
+    {
+      "image": "history_book_4.jpg",
+      "name": "1491: New Revelations of the Americas Before Columbus",
+      "author": "Charles C. Mann",
+      "category": "History"
+    },
+    {
+      "image": "history_book_5.jpg",
+      "name": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "category": "History"
+    },
+    {
+      "image": "scifi_book_1.jpg",
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "category": "Science Fiction"
+    },
+    {
+      "image": "scifi_book_2.jpg",
+      "name": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "category": "Science Fiction"
+    },
+    {
+      "image": "scifi_book_3.jpg",
+      "name": "Ender's Game",
+      "author": "Orson Scott Card",
+      "category": "Science Fiction"
+    },
+    {
+      "image": "scifi_book_4.jpg",
+      "name": "Neuromancer",
+      "author": "William Gibson",
+      "category": "Science Fiction"
+    },
+    {
+      "image": "scifi_book_5.jpg",
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Science Fiction"
+    },
+    {
+      "image": "romance_book_1.jpg",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance"
+    },
+    {
+      "image": "romance_book_2.jpg",
+      "name": "Outlander",
+      "author": "Diana Gabaldon",
+      "category": "Romance"
+    },
+    {
+      "image": "romance_book_3.jpg",
+      "name": "The Notebook",
+      "author": "Nicholas Sparks",
+      "category": "Romance"
+    },
+    {
+      "image": "romance_book_4.jpg",
+      "name": "Me Before You",
+      "author": "Jojo Moyes",
+      "category": "Romance"
+    },
+    {
+      "image": "romance_book_5.jpg",
+      "name": "The Rosie Project",
+      "author": "Graeme Simsion",
+      "category": "Romance"
+    },
+    {
+      "image": "fantasy_book_1.jpg",
+      "name": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "category": "Fantasy"
+    },
+    {
+      "image": "fantasy_book_2.jpg",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy"
+    },
+    {
+      "image": "fantasy_book_3.jpg",
+      "name": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "category": "Fantasy"
+    },
+    {
+      "image": "fantasy_book_4.jpg",
+      "name": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson",
+      "category": "Fantasy"
+    },
+    {
+      "image": "fantasy_book_5.jpg",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy"
+    },
+    {
+      "image": "mystery_book_1.jpg",
+      "name": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "category": "Mystery"
+    },
+    {
+      "image": "mystery_book_2.jpg",
+      "name": "Gone Girl",
+      "author": "Gillian Flynn",
+      "category": "Mystery"
+    },
+    {
+      "image": "mystery_book_3.jpg",
+      "name": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "category": "Mystery"
+    },
+    {
+      "image": "mystery_book_4.jpg",
+      "name": "In the Woods",
+      "author": "Tana French",
+      "category": "Mystery"
+    },
+    {
+      "image": "mystery_book_5.jpg",
+      "name": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "category": "Mystery"
+    }
+  ]
+  

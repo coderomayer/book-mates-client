@@ -1,12 +1,13 @@
 import { useContext, useState } from "react";
 import { NavLink } from "react-router-dom";
 import Logo from "../assets/BookMates.png"
+import { userAuth } from "../Provider/AuthProvider";
 
 
 const Navbar = () => {
 
     const [openNav, setOpenNav] = useState(false);
-    // const { user, logOut } = useContext(userAuth)
+    const { user, logOut } = useContext(userAuth)
 
     const toggleNav = () => {
         setOpenNav(!openNav);
@@ -117,7 +118,7 @@ const Navbar = () => {
                 <nav className="hidden md:flex space-x-4">
                     {navList()}
 
-                    {/* {
+                    {
                         user ? (
                             <>
                                 <button className='bg-red-700 text-white px-4 py-2 rounded text-xs' onClick={handleLogout}>Log out</button>
@@ -128,7 +129,7 @@ const Navbar = () => {
                                 <button className="bg-black text-white px-4 py-2 rounded text-xs">Login</button>
                             </NavLink>
                         )
-                    } */}
+                    }
 
 
 

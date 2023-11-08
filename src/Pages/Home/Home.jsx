@@ -1,11 +1,16 @@
-import reading from "../assets/reading-bro.svg";
-import event from "../assets/Library-rafiki.svg";
+import reading from "../../assets/reading-bro.svg";
+import event from "../../assets/Library-rafiki.svg";
+import { useLoaderData } from "react-router-dom";
+import CategoryCard from "./CategoryCard";
 
 
 const Home = () => {
 
+    const books = useLoaderData()
+    console.log(books);
+
     return (
-        <div>
+        <div className=''>
 
             {/* Header */}
 
@@ -24,11 +29,21 @@ const Home = () => {
                 </div>
             </div>
 
+
+
             {/* Category Section */}
 
-            <div className="p-8 md:p-24 bg-lime-600">
-                <h2>This si Book Category</h2>
+            <div className="p-8 md:p-24 bg-lime-600 grid sm:grid-cols-2 md:grid-cols-3 gap-4 ">
+
+
+                {
+                    books.map(book => <CategoryCard key={book._id} book={book}></CategoryCard>)
+                }
+
+
             </div>
+
+
 
             {/* How It Works: */}
 
