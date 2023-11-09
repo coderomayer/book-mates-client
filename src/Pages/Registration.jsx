@@ -1,3 +1,4 @@
+import register from "../assets/Message-cuate.svg"
 import { useContext, useState } from "react";
 import swal from "sweetalert";
 import { Link, useNavigate } from "react-router-dom";
@@ -74,8 +75,12 @@ const Registraition = () => {
 
             <div>
 
-                <section className="bg-gray-50 dark:bg-gray-900 p-6 md:p-24">
-                    <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+                <section className="bg-gray-50 p-6 md:p-24">
+                    <div className="sm:flex gap-8 items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+
+                    <div>
+                        <img className="w-full md:w-96" src={register} alt="" />
+                    </div>
 
                         <div className="w-full bg-amber-700 rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
                             <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
@@ -88,8 +93,8 @@ const Registraition = () => {
 
 
                                     <div>
-                                        <label for="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your email</label>
-                                        <input type="text" name="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@company.com" required="" />
+                                        <label for="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your Name</label>
+                                        <input type="text" name="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Your Name" required="" />
                                     </div>
 
                                     <div>
@@ -116,7 +121,7 @@ const Registraition = () => {
                                     <button type="submit" className="w-full text-white bg-blue-900 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Create an account</button>
 
                                     <p className="text-sm font-light text-blue-900 dark:text-gray-400">
-                                        Already have an account? <Link className="text-orange-800 font-bold" to='/login'>Login</Link>
+                                        Already have an account? <Link className="text-gray-200 font-bold" to='/login'>Login</Link>
 
                                     </p>
                                 </form>

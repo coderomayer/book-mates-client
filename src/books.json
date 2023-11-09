@@ -1,24 +1,24 @@
 [
     {
-      "image": "history_book_1.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494279423i/2767.jpg",
       "name": "A People's History of the United States",
       "author": "Howard Zinn",
       "category": "History"
     },
     {
-      "image": "history_book_2.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg",
       "name": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
       "category": "History"
     },
     {
-      "image": "history_book_3.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430942575i/22609391.jpg",
       "name": "The Wright Brothers",
       "author": "David McCullough",
       "category": "History"
     },
     {
-      "image": "history_book_4.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545238592i/39020.jpg",
       "name": "1491: New Revelations of the Americas Before Columbus",
       "author": "Charles C. Mann",
       "category": "History"
@@ -30,61 +30,61 @@
       "category": "History"
     },
     {
-      "image": "scifi_book_1.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
       "name": "Dune",
       "author": "Frank Herbert",
       "category": "Science Fiction"
     },
     {
-      "image": "scifi_book_2.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
       "name": "The Hunger Games",
       "author": "Suzanne Collins",
       "category": "Science Fiction"
     },
     {
-      "image": "scifi_book_3.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg",
       "name": "Ender's Game",
       "author": "Orson Scott Card",
       "category": "Science Fiction"
     },
     {
-      "image": "scifi_book_4.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
       "name": "Neuromancer",
       "author": "William Gibson",
       "category": "Science Fiction"
     },
     {
-      "image": "scifi_book_5.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg",
       "name": "Brave New World",
       "author": "Aldous Huxley",
       "category": "Science Fiction"
     },
     {
-      "image": "romance_book_1.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
       "name": "Pride and Prejudice",
       "author": "Jane Austen",
       "category": "Romance"
     },
     {
-      "image": "romance_book_2.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964.jpg",
       "name": "Outlander",
       "author": "Diana Gabaldon",
       "category": "Romance"
     },
     {
-      "image": "romance_book_3.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483183484i/33648131.jpg",
       "name": "The Notebook",
       "author": "Nicholas Sparks",
       "category": "Romance"
     },
     {
-      "image": "romance_book_4.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpg",
       "name": "Me Before You",
       "author": "Jojo Moyes",
       "category": "Romance"
     },
     {
-      "image": "romance_book_5.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpgg",
       "name": "The Rosie Project",
       "author": "Graeme Simsion",
       "category": "Romance"
@@ -96,55 +96,55 @@
       "category": "Fantasy"
     },
     {
-      "image": "fantasy_book_2.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270352123i/186074.jpg",
       "name": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
       "category": "Fantasy"
     },
     {
-      "image": "fantasy_book_3.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496.jpg",
       "name": "A Game of Thrones",
       "author": "George R.R. Martin",
       "category": "Fantasy"
     },
     {
-      "image": "fantasy_book_4.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg",
       "name": "Mistborn: The Final Empire",
       "author": "Brandon Sanderson",
       "category": "Fantasy"
     },
     {
-      "image": "fantasy_book_5.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
       "name": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "category": "Fantasy"
     },
     {
-      "image": "mystery_book_1.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135.jpg",
       "name": "The Girl with the Dragon Tattoo",
       "author": "Stieg Larsson",
       "category": "Mystery"
     },
     {
-      "image": "mystery_book_2.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
       "name": "Gone Girl",
       "author": "Gillian Flynn",
       "category": "Mystery"
     },
     {
-      "image": "mystery_book_3.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579621267i/968.jpg",
       "name": "The Da Vinci Code",
       "author": "Dan Brown",
       "category": "Mystery"
     },
     {
-      "image": "mystery_book_4.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388189974i/9791.jpg",
       "name": "In the Woods",
       "author": "Tana French",
       "category": "Mystery"
     },
     {
-      "image": "mystery_book_5.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559835163i/33516773.jpg",
       "name": "Big Little Lies",
       "author": "Liane Moriarty",
       "category": "Mystery"
