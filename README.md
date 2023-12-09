@@ -1,6 +1,6 @@
 # Library Management System
 
-![Library Management System](https://bookmates-eb572.web.app/assets/images/logo.png)
+Explore the live website [here](https://bookmates-eb572.web.app).
 
 ## Overview
 
@@ -15,8 +15,8 @@ Welcome to the Library Management System – a comprehensive web application des
 - **Categories and Filtering**: Explore books by categories and utilize filtering options to find available books with a quantity greater than zero.
 - **Borrow and Return**: Easily borrow books, track borrowed items, and return them with a user-friendly interface.
 - **Read Functionality**: Dive into dedicated pages to read content from specific books.
-- **Additional Logins**: Beyond email/password authentication, log in using alternative methods such as Google or GitHub.
-- **Librarian Role (Optional)**: Assign a "librarian" role to specific users for advanced book management privileges.
+- **Additional Logins**: Beyond email/password authentication, log in using alternative methods such as Google.
+
 
 
 ## Deployment
@@ -30,8 +30,5 @@ The project is live and accessible at [Library Management System](https://bookma
 3. Explore the live website [here](https://bookmates-eb572.web.app).
 4. For detailed development instructions, refer to the task description provided in the assignment.
 
-## Deadline
-
-Refer to the task description for the submission deadline.
 
 Explore the Library Management System and enjoy an organized approach to book management! 📚
